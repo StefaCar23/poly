@@ -28,3 +28,4 @@ class MySecondClass implements MyInterface{
         echo "This is args " . $args;
     }
 }
+
